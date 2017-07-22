@@ -15,4 +15,4 @@
   - Penalty
 
 # Screenshot
-![alt text](https://github.com/guptashrey/Udacity-Project-ScoreKeeper/raw/master/Screenshot.png "Screenshot")
+![alt text]<img src="https://github.com/guptashrey/Udacity-Project-ScoreKeeper/raw/master/Screenshot.png" width="300"/>
