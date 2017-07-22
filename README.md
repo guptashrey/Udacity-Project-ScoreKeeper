@@ -2,7 +2,7 @@
 - Udacity Android Basics Nanodegree Project - Freestyle Wrestling ScoreKeeper App
 - [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
 
-## Android Goodies
+# Android Goodies
 - View items: TextView and Button.
 
 # Description
