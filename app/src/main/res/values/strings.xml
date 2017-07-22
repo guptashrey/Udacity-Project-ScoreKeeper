@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    <string name="game_name">Wrestling</string>
+    <string name="team_1">Team A</string>
+    <string name="team_2">Team B</string>
+
+    <string name="initial_score">0</string>
+    <string name="button1">Takedown (+2)</string>
+    <string name="button2">Escape (+1)</string>
+    <string name="button3">Reversal (+2)</string>
+    <string name="button4">Near Fall (+2)</string>
+    <string name="button5">Penalty (+1)</string>
+
+    <string name="button_reset">Reset</string>
+
+</resources>
