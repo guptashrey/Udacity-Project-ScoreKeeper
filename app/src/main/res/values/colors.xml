@@ -2,6 +2,6 @@
 <resources>
     <color name="colorPrimary">#0D47A1</color>
     <color name="colorAccent">#FF4081</color>
-
     <color name="grey700">#616161</color>
+    <color name="reset_button">#F44336</color>
 </resources>

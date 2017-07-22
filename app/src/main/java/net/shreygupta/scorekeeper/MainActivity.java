@@ -17,22 +17,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void addOneTeamA(View view) {
-        scoreTeamA = scoreTeamA + 1;
+        scoreTeamA++;
         displayForTeamA(scoreTeamA);
     }
 
     public void addTwoTeamA(View view) {
-        scoreTeamA = scoreTeamA + 2;
+        scoreTeamA += 2;
         displayForTeamA(scoreTeamA);
     }
 
     public void addOneTeamB(View view) {
-        scoreTeamB = scoreTeamB + 1;
+        scoreTeamB++;
         displayForTeamB(scoreTeamB);
     }
 
     public void addTwoTeamB(View view) {
-        scoreTeamB = scoreTeamB + 2;
+        scoreTeamB += 2;
         displayForTeamB(scoreTeamB);
     }
 
